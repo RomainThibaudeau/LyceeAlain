@@ -30,6 +30,7 @@ body{
   width: 80%;
   margin: auto;
   overflow: hidden;
+  font-family:  cursive;
 }
 
 .container2 {
@@ -80,12 +81,12 @@ h2 {
 .product-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center ;
 }
 
 .product {
   background: #fff;
-  border: 1px solid #f80901;
+  border: 4px solid #01d3f8;
   border-radius: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin: 20px;
@@ -98,7 +99,7 @@ h2 {
 
 .product2 {
   background: #fff;
-  border: 1px solid #f80901;
+  border: 7px solid #f80901;
   border-radius: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin: 20px;
@@ -109,7 +110,10 @@ h2 {
   height: 200px;
 }
 
-
+.titrechapitre {
+  color: #0352fc;
+  
+}
 
 
 
